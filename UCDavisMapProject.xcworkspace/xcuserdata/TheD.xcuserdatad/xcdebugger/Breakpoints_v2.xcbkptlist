@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/SwiftUIDemo-master/UCDavisMap/UCDavisMap/SearchViewController.swift"
+            timestampString = "512611215.984019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UCDavisMapProject.SearchViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UCDavisMapProject.SearchViewController"
+                  moduleName = "UCDavisMapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/TheD/Downloads/SwiftUIDemo-master/UCDavisMap/UCDavisMap/SearchViewController.swift"
+                  timestampString = "512612148.162125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UCDavisMapProject.SearchViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UCDavisMapProject.SearchViewController"
+                  moduleName = "UCDavisMapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/TheD/Downloads/SwiftUIDemo-master/UCDavisMap/UCDavisMap/SearchViewController.swift"
+                  timestampString = "512612148.166657"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UCDavisMapProject.SearchViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UCDavisMapProject.SearchViewController&gt;"
+                  moduleName = "UCDavisMapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/TheD/Downloads/SwiftUIDemo-master/UCDavisMap/UCDavisMap/SearchViewController.swift"
+                  timestampString = "512612148.171007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UCDavisMapProject.SearchViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UCDavisMapProject.SearchViewController&gt;"
+                  moduleName = "UCDavisMapProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/TheD/Downloads/SwiftUIDemo-master/UCDavisMap/UCDavisMap/SearchViewController.swift"
+                  timestampString = "512612148.176184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
